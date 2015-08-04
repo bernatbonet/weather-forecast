@@ -7,5 +7,5 @@ urllib2<br>
 json
 
 # Usage
-First you need to run search.py to run the web service on http://localhost:8080<br>
+First you need to execute search.py to run the web service on http://localhost:8080<br>
 Then you can run the script passing the city: python weather.py London
